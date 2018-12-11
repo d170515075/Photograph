@@ -1,4 +1,4 @@
-package cn.xiaofz.myapplication;
+package cn.xiaofz.photograph_master;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("cn.xiaofz.myapplication", appContext.getPackageName());
+        assertEquals("cn.xiaofz.photograph_master", appContext.getPackageName());
     }
 }

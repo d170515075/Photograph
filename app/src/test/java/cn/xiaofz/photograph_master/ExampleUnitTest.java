@@ -1,4 +1,4 @@
-package cn.xiaofz.myapplication;
+package cn.xiaofz.photograph_master;
 
 import org.junit.Test;
 
